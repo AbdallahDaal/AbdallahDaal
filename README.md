@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've wanted to be a Robotics Engineer from a very young age.
 -->
+[![My Skills](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev)
