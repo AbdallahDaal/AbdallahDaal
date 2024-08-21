@@ -36,4 +36,4 @@ Data Analyst and Data scientist
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev)
+##[![My Skills](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev)
