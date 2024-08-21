@@ -12,7 +12,6 @@ Data Analyst and Data scientist
 *  👯 I’m looking to collaborate on some projects on Machine learing projects
 *  🤔 I’m looking for help wit a few of my projects.
 *  💬 Ask me about my goals.
-*  📫 How to reach me: My Gmail is abdallerh17@gmail.com, My Linkedin is linkedin.com/in/abdallah-daallb32b35214
 *  😄 Pronouns: He/Him
 *  ⚡ Fun fact: I've wanted to be a Robotics Engineer from a very young age.
 
