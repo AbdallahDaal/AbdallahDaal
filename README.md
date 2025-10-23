@@ -1,19 +1,17 @@
 Hi 👋 My name is Abdallah Dal
 =============================
 
-Data Analyst and Data scientist
+Associate Data scientist & ML Engineer
 -------------------------------
 
 * 🌍  I'm based in Gombe, Nigeria
 * ✉️  You can contact me at [abdallerh17@gmail.com](mailto:abdallerh17@gmail.com)
-* 🧠  I'm learning A new framework
 * 🔭  I’m currently working on some projects on a Qwasar Silicon Valley platform.
 *  🌱 I’m currently learning Machine learning with Python.
-*  👯 I’m looking to collaborate on some projects on Machine learing projects
-*  🤔 I’m looking for help wit a few of my projects.
+*  👯 I’m open to collaborate on Machine learing projects
 *  💬 Ask me about my goals.
 *  😄 Pronouns: He/Him
-*  ⚡ Fun fact: I've wanted to be a Robotics Engineer from a very young age.
+*  ⚡ Fun fact: I've always wanted to be a Robotics Engineer from a very young age.
 
 ### Skills
 
